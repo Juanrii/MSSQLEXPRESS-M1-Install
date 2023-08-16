@@ -1,4 +1,4 @@
-# MSSQLEXPRESS-M1-Install
+# MSSQLEXPRESS-M1-M2-Install
 Install scripts for Microsoft SQL Server Express on Apple M1 in Parallels.
 
 ## Installation
