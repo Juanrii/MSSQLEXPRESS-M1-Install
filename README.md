@@ -1,5 +1,5 @@
 # MSSQLEXPRESS-M1-M2-Install
-Install scripts for Microsoft SQL Server Express on Apple M1 in Parallels.
+Install scripts for Microsoft SQL Server Express on Apple M1 & M2 in Parallels.
 
 ## Installation
 Copy all scripts from the /src folder into some folder in the Parallels VM. Decide which flavor of the SQL Server you want to install and run the *.bat file. Grant elevated permissions for the PowerShell and wait until the script completes. 
